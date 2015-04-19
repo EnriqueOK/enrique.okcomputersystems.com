@@ -1,0 +1,607 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"ale",
+				"alert(${0:message})	Window"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"brde",
+				"border-radius"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"la",
+				"label	Tag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"alin",
+				"text-align"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"i",
+				"id	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1173,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/enrique.okcomputersystems.com"
+	],
+	"file_history":
+	[
+		"/C/Users/Enrique/Downloads/Nueva carpeta (5)/index.html",
+		"/C/Users/Enrique/Downloads/0000/00000/cronometro/index.html",
+		"/C/xampp/htdocs/ok.computersystems.com/fonts/css/font-awesome.css",
+		"/C/xampp/htdocs/ok.computersystems.com/home.html",
+		"/C/xampp/htdocs/ok.computersystems.com/index.html",
+		"/C/Users/Enrique/Desktop/index.html",
+		"/C/xampp/htdocs/ok.computersystems.com/js/script.js",
+		"/C/Users/Enrique/Desktop/implementos/emp/car-zone-automobile-bootstrap-responsive-web-template/assets/js/jquery.scrollTo.min.js",
+		"/C/xampp/htdocs/ok.computersystems.com/style.css",
+		"/C/xampp/htdocs/ok.computersystems.com/defaul.html",
+		"/C/xampp/htdocs/ok.computersystems.com/js/jquery.anchor.js",
+		"/D/Jeksmen/Proyecto-Ingles/abcIngles4/js/jquery.min.js",
+		"/D/Jeksmen/Proyecto-Ingles/abcIngles4/js/jquery.fancybox-1.2.6.pack.js",
+		"/D/Jeksmen/Proyecto-Ingles/abcIngles4/js/jquery.anchor.js",
+		"/D/Jeksmen/Proyecto-Ingles/abcIngles4/js/fancyzoom.min.js",
+		"/D/Jeksmen/Proyecto-Ingles/abcIngles4/js/craftyslide.min.js",
+		"/C/xampp/htdocs/ok.computersystems.com/css/da-slider.css",
+		"/D/Jeksmen/okcomputersystem/okcomputersystems/fonts/css/font-awesome.min.css",
+		"/D/Jeksmen/okcomputersystem/okcomputersystems/js/custom.js",
+		"/D/Jeksmen/okcomputersystem/okcomputersystems/css/bootstrap.min.css",
+		"/D/Jeksmen/okcomputersystem/okcomputersystems/css/style.css",
+		"/D/Jeksmen/okcomputersystem/okcomputersystems/index.html",
+		"/C/xampp/htdocs/ok.computersystems.com/index.php",
+		"/D/Jeksmen/okcomputersystem/simplework/index.html",
+		"/G/Computer-Systems/Practicas-Programacion/Programacion-Web/Bootstrap/index.html",
+		"/C/Users/Enrique/Downloads/HTML, JS and Node-WebKit/index.html",
+		"/C/xampp/htdocs/wordpress/wp-content/index.php",
+		"/G/Computer-Systems/Practicas-Programacion/Programacion-Web/JavaScript/POO_JavaSript/objetos_literales.html",
+		"/G/Computer-Systems/Practicas-Programacion/Programacion-Web/JavaScript/POO_JavaSript/metodos_estaticos.html",
+		"/G/Computer-Systems/Practicas-Programacion/Programacion-Web/JavaScript/POO_JavaSript/js/met_estaticos.js",
+		"/G/Computer-Systems/Practicas-Programacion/Programacion-Web/JavaScript/POO_JavaSript/js/prop_estaticas.js",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/enviar.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/acura.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/mitsubishi.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/suzuki.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/mercedes.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/mazda.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/chrysler.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/chevrolet.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/audi.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/volkswagen.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_theme/header.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/toyota.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/nissan.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/jeep.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/honda.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/ford.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/ferrari.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/datsun.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/bmw.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/seguros.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/bienes.php",
+		"/C/xampp/htdocs/dma_usedcar/index.html",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/dma_usedcar/home.php",
+		"/G/Computer-Systems/Examples-Programacion/Html & CSS3/html5-boilerplate_v5.0.0/404.html",
+		"/C/xampp/htdocs/dma_usedcar/dma_theme/dma_css/style.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/s_css/normalize.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/js/b_js/modernizr.js",
+		"/F/Sistemas-Computer/Cursos Framework/Node.js/Node.js/Archivos Base/node/5/inicio.js",
+		"/F/Sistemas-Computer/Cursos Framework/Node.js/Node.js/Archivos Base/node/1/hola.js",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/carousel.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/bootstrap.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/contacto.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/header.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/footer.php",
+		"/C/Users/Enrique/Downloads/Nueva carpeta/colorbox-master/example1/index.html",
+		"/C/Users/Enrique/Downloads/Nueva carpeta/colorbox-master/jquery.colorbox.js",
+		"/C/Users/Enrique/Downloads/Nueva carpeta/colorbox-master/content/ajax.html",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/style.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_theme/footer.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_autos/prueba2.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/prueba1.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_autos/footer.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/js/b_js/main.js",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/b_css/main.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/s_css/style_common.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/b_css/fancybox/jquery.fancybox.css",
+		"/C/Users/Enrique/Desktop/implementos/otrs/site_granter/search.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/s_css/fallback.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/b_css/style2.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/style2.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/normalize.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/style3.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/bootstrap-theme.min.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/bootstrap.min.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/fallback.css",
+		"/C/xampp/htdocs/dma_usedcar/footer.php",
+		"/C/xampp/htdocs/dma_usedcar/header.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_pages/theme/css/style_common.css",
+		"/C/xampp/htdocs/dma_usedcar/dma_autos/header.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_js/pop-ups.js",
+		"/C/Users/Enrique/Desktop/input.html",
+		"/C/xampp/htdocs/dma_usedcar/dma_js/popup.js",
+		"/C/xampp/htdocs/dma_usedcar/dma_js/gallery.js",
+		"/C/xampp/htdocs/dma_usedcar/dma_js/jquery.mCustomScrollbar.js",
+		"/C/xampp/htdocs/dma_usedcar/dma_js/nav.js",
+		"/G/Computer-Systems/Examples-Programacion/Html & CSS3/plantillas_web/plantillas-web/web-3/shinra-html-files/HTML/send-mail.php",
+		"/G/Computer-Systems/Examples-Programacion/Html & CSS3/plantillas_web/plantillas-web/web-3/scenic_photo/contact.php",
+		"/C/xampp/htdocs/dma_usedcar/dma_login/index.php",
+		"/G/Computer-Systems/Practicas-Programacion/Programacion-Web/Html5/Html5/index.html",
+		"/G/Computer-Systems/Examples-Programacion/Html & CSS3/form-pest/index.html",
+		"/D/Jeksmen/suss/index.html",
+		"/C/xampp/htdocs/dma_usedcar/dma_theme/dma_js/pop-ups.js",
+		"/C/xampp/htdocs/dma_autos/autos/mitsubishi.html",
+		"/C/xampp/htdocs/dma_autos/autos/nissan.html",
+		"/C/xampp/htdocs/dma_autos/autos/toyota.html",
+		"/C/xampp/htdocs/dma_autos/autos/vw.html",
+		"/C/xampp/htdocs/dma_autos/autos/mercedes.html",
+		"/C/xampp/htdocs/dma_autos/autos/jeep.html",
+		"/C/xampp/htdocs/dma_autos/autos/honda.html",
+		"/C/xampp/htdocs/dma_autos/autos/ford.html",
+		"/C/xampp/htdocs/dma_autos/autos/ferrari.html",
+		"/C/xampp/htdocs/dma_autos/autos/datsun.html",
+		"/C/xampp/htdocs/dma_autos/autos/chrysler.html",
+		"/C/xampp/htdocs/dma_autos/autos/chevrolet.html",
+		"/C/xampp/htdocs/dma_autos/autos/bmw.html",
+		"/C/xampp/htdocs/dma_autos/autos/audi.html",
+		"/C/xampp/htdocs/dma_autos/autos/acura.html",
+		"/C/xampp/htdocs/dma_autos/pages/enviar.php",
+		"/C/xampp/htdocs/dma_autos/pages/contacto.html",
+		"/C/xampp/htdocs/dma_autos/pages/servicios.html",
+		"/C/xampp/htdocs/dma_autos/pages/seguros.html",
+		"/C/Users/Enrique/Downloads/mapa-gmaps/mapa-gmaps.html",
+		"/C/xampp/htdocs/dma_autos/css/seguros.css",
+		"/C/xampp/htdocs/dma_autos/css/styles1.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"@media",
+			"nav-toggle",
+			"nav-external",
+			"navbar-top",
+			"nav-external",
+			"fa-paint",
+			"fa-paint-brush",
+			"heading",
+			"#00BFFF",
+			"@#0080C0",
+			"@",
+			"mail",
+			"email",
+			"mail",
+			"size",
+			"span",
+			"group",
+			"phone",
+			"telephon",
+			"cover",
+			"page-section",
+			"arrows",
+			"i",
+			"topHome",
+			"social",
+			"h4",
+			".fa",
+			"darkBg",
+			"txtHead",
+			".navbar-inverse .navbar-collapse .navbar-invers",
+			"btn-danger",
+			".navbar-inverse .navbar-collapse .navbar-invers",
+			".navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form",
+			".dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus",
+			".navbar-fixed-top",
+			".navbar-fixed-top .navbar-fixed-bottom",
+			"dropdown active",
+			"avtive",
+			"ul.sdt_menu li div.sdt_box",
+			"br />",
+			"br",
+			"body",
+			"h2",
+			".fancybox-nav:hover span",
+			"video",
+			"@media screen,projection",
+			"media",
+			"cufon",
+			"wrapper",
+			"h1",
+			"wrapper",
+			"page-header",
+			"container",
+			"dropdown-menu > li > a:hover",
+			"dropdown-menu > li > a:hoverhover",
+			"navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover",
+			"body",
+			"navbar",
+			"popupContact",
+			"about",
+			"popup-overlay",
+			"p",
+			"border",
+			"preloader",
+			"image",
+			"preloader",
+			"image",
+			"copy",
+			"content",
+			"audi",
+			"menu",
+			">\n",
+			"menu",
+			"img",
+			"anchorLink",
+			"cont",
+			"port",
+			"validarF",
+			"audi",
+			"bgimg",
+			"#bgimg",
+			"bg",
+			"imag",
+			"image",
+			"imagen",
+			"contac",
+			"serv",
+			"contac",
+			"contact",
+			"about",
+			"modal",
+			"modal fade",
+			"about",
+			"facebook",
+			"image"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#348CED",
+			"#05CDFF"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "enr.okCS.com",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
